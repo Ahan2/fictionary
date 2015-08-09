@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Happy Fooling!</string>
+    <string name="write">Enter word here</string>
+    <string name="button">Submit word!</string>
+    <string name="app_name">Fictionary</string>
+    <string name="app"></string>
+    <string name="if1">1.Type any random text above and press the button.</string>
+    <string name="if2">2. Customize the resulting page by pressing the boxed words and choosing an option.</string>
+    <string name="if3"> 3. Show the page to a friend, making him believe it\'s a real word!</string>
+
+    <string-array name="first">
+        <item>Something</item>
+        <item>Someone</item>
+        <item>A</item>
+        <item>To</item>
+    </string-array>
+    <string-array name="second">
+        <item>that</item>
+        <item>who</item>
+        <item>person</item>
+        <item>who\'s</item>
+        <item>be</item>
+    </string-array>
+    <string-array name="third">
+        <item>is</item>
+        <item>provides</item>
+        <item>exists</item>
+        <item>who\'s</item>
+        <item>who</item>
+        <item>or</item>
+        <item>extremely</item>
+        <item>actions</item>
+    </string-array>
+    <string-array name="fourth">
+        <item>big</item>
+        <item>dumb</item>
+        <item>small</item>
+        <item>smelly</item>
+        <item>loud</item>
+        <item>soft</item>
+        <item>dumb</item>
+        <item>unconventional</item>
+        <item>annoying</item>
+        <item>caring</item>
+        <item>happy</item>
+        <item>sweet</item>
+        <item>rubbish</item>
+        <item>sour</item>
+        <item>common</item>
+        <item>sad</item>
+        <item>happy</item>
+        <item>merry</item>
+        <item>handsome</item>
+        <item>sparkling</item>
+        <item>clean</item>
+        <item>powerful</item>
+    </string-array>
+    <string-array name="fifth">
+        <item>a</item>
+        <item>an</item>
+    </string-array>
+    <string-array name="sixth">
+        <item>It</item>
+        <item>S/he</item>
+        <item>I\'m</item>
+        <item>We</item>
+        <item>They</item>
+    </string-array>
+    <string-array name="seventh">
+        <item>is</item>
+        <item>went</item>
+        <item>are</item>
+        <item>came</item>
+    </string-array>
+
+</resources>
